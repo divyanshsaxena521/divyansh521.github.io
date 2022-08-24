@@ -1,0 +1,21 @@
+<h3><span id="a">Divyansh521@saxena</span>:<span id="b">~</span><span id="c">$</span> show Intro.txt </h3>
+<h2>Hi, I'm Divyansh saxena.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>Alumni of <a href = "https://www.srmist.edu.in/college/college-of-engineering-technology/"> SRM Institute of Science and Technology.</a> <!-- slightdelayhere--><!-- longlongcomment --> 
+ <br>completed <a href = "https://webstor.srmist.edu.in/web_assets/srm_mainsite/files/2018/btech_curriculum_electronics_and_communication_engineering_regulations_2013_2014.pdf/"> Bachelors's degree in Electronics and Communication Engineering.</a> </p>
+ <p>currently working as software engineer intern @ <a href = "https://www.infinera.com/"> Infinera India.</a></p>
+ <!-- slightdelayhere--><!-- longlongcomment --><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj --><p>I love doing competitive programming. Check me out on <a href="https://github.com/divyanshsaxena521">github</a>, <a href="https://www.hackerearth.com/@saxenadivyansh521">hackerearth</a> and <a href="https://www.coursera.org/accomplishments">coursera</a>.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
+ <p>My other interests are Cinematography and Web Development. </p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
+ <p> Resume - <a href = "https://drive.google.com/file/d/1tffWL12G1FoupKnf2f2IfFCdH7yfNAXQ/view?usp=sharing">Click here</a> </p> <!-- owlsqweoifjqwoefijqwoeifjqwoefijwef --> </h2>
+
+<h3><span id="a">Divyansh521@saxena</span>:<span id="b">~</span><span id="c">$</span> Contact Me </h3><!-- slightdelayhere--><!-- longlongcomment --> 
+<h2>Email address : <a href="mailto:saxenadivyansh521@gmail.com">saxenadivyansh521@gmail.com</a>
+
+Phone Number : <a href = "tel: +918430383535"> +91-8430383535 </a>
+
+Linked-In : <a href = "https://www.linkedin.com/in/divyansh521saxena/"> divyansh521saxena</a> <br/> </h2>
+
+<h3><span id="a">Divyansh521@saxena</span>:<span id="b">~</span><span id="c">$</span> Fun Fact about me ! </h3>
+<h1> I never wanted to become a coder during my college days :P </h1>
+
+<h3><span id="a">Divyansh521@saxena</span>:<span id="b">~</span><span id="c">$</span> Quote of the Day </h3>
+<h1>Everyone is a loser till they decide to do something about it. </h1>
